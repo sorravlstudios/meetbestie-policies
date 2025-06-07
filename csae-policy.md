@@ -1,6 +1,6 @@
 # Child Sexual Abuse and Exploitation (CSAE) Policy for MeetBestie
 
-**Effective Date:** 1st May, 2025  
+**Effective Date:** 5th June, 2025
 **App Name:** MeetBestie  
 **Developer:** Sorravl Studios
 

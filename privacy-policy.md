@@ -1,6 +1,6 @@
 # Privacy Policy for MeetBestie
 
-Effective Date: 1st May, 2025
+Effective Date: 5th June, 2025
 
 At Sorravl Studios, we value your trust and are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, MeetBestie ("App"). By using MeetBestie, you agree to the terms of this Privacy Policy. If you do not agree, please do not use the App.
 

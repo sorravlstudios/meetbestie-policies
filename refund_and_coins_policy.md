@@ -1,6 +1,6 @@
 # Refund and Coins Policy for MeetBestie
 
-Effective Date: 1st May, 2025
+Effective Date: 5th June, 2025
 
 At Sorravl Studios, we strive to provide a seamless experience for our users. This Refund and Coins Policy ("Policy") explains the terms and conditions related to the purchase, usage, and refund of coins within the MeetBestie mobile application ("App"). By purchasing or using coins in the App, you agree to the terms outlined in this Policy.
 

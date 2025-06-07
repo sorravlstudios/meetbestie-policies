@@ -1,6 +1,6 @@
 # Terms of Use for MeetBestie
 
-Effective Date: 1st May, 2025
+Effective Date: 5th June, 2025
 
 Welcome to MeetBestie, a mobile application developed by Sorravl Studios ("we," "our," or "us"). These Terms of Use ("Terms") govern your access to and use of the MeetBestie mobile application ("App"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App.
 
